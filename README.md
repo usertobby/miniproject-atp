@@ -1,2 +1,2 @@
 # miniproject-atp
-mini project
+mini project for Algoritma dan Teknik Pemrograman (Kelas A)
